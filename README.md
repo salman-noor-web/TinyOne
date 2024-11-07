@@ -1,2 +1,1 @@
-# TinyOne
-Project tinyone
+https://salman-noor-web.github.io/TinyOne/
